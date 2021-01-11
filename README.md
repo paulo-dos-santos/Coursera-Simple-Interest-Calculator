@@ -52,7 +52,7 @@ In this exercise, you will correct the look and feel of the web page.
 
 <pre>
 Set the body color to 'black', font to arial and font color to white.
-Set the <h1> color to 'grey' and font to verdana.
+Set the h1 color to 'grey' and font to verdana.
 Create an entry for class 'maindiv'.
 Set the background color to white, font color to black, width to 300 pixels, and padding to 20px in the newly created maindiv class.
 Set the border radius to 25 px.
