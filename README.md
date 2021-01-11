@@ -28,6 +28,7 @@ Exercise 2 : Modify the html file.
 
 In this exercise, you will correct any mistakes in the existing code and also add any missing tags.
 
+<pre>
 Doctype is missing. Add the doctype.
 Add "Simple Interest Calculator" as title.
 Move all the content which currently is in the <body> to a <div> tag.
@@ -41,6 +42,7 @@ Modify the input text box for "No of years" into a dropdown box with options 1 t
 Change the "Compute" button to "Compute Interest".
 Below the "Compute Interest" button create an empty <span> and set its id to 'result'.
 Add a copyright message using the <footer> tag.
+</pre>
 
 ## Step 5 of 8
 
@@ -48,6 +50,7 @@ Exercise 3 : Modify the css file.
 
 In this exercise, you will correct the look and feel of the web page.
 
+<pre>
 Set the body color to 'black', font to arial and font color to white.
 Set the <h1> color to 'grey' and font to verdana.
 Create an entry for class 'maindiv'.
@@ -55,6 +58,7 @@ Set the background color to white, font color to black, width to 300 pixels, and
 Set the border radius to 25 px.
 Align the div to the center of the page.
 Visualize your html file in the browser and make sure that you have not missed anything.
+</pre>
 
 ## Step 6 of 8
 
@@ -62,6 +66,7 @@ Exercise 4 : Modify the javascript file.
 
 In this exercise, you will write the javascript code to implement the simple interest calculation logic.
 
+<pre>
 Before we start writing any javascript, make sure that the button in html file has the onclick attribute set to "compute()"
 Create a variable called 'principal' and assign to it the value of the input element "principal"
 Create a variable called rate and assign to it the value of the input element "rate"
@@ -80,6 +85,7 @@ Add validation for "Principal" input box. If the user enters zero or negative va
 Once the user clicks on the alert "OK" button, take the user back to the "Principal" input box, by setting the focus on this box. You can refer to the Javascript Form Validation lab.
 You are done with the coding. Let us proceed to next exercise where we test the code.
 Write comments in your code. They not only help you score more marks in the project, but also help you to debug and maintain the code in the long term.
+</pre>
 
 ## Step 7 of 8
 
@@ -87,6 +93,7 @@ Exercise 5 : Test the app.
 
 Now that you have finished coding your app. Let us do some basic testing, before we release it.
 
+<pre>
 Enter these values in the form. Amount = 0  Rate = 1  No. of Years = 1 
 Click on Compute button.
 
@@ -99,6 +106,7 @@ If you deposit 99999,<br>
 at an interest rate of 9.<br>
 You will receive an amount of 80999.19,<br>
 in the year 2029<br>
+</pre>
 
 As I write this, the year is 2020, so 2029 is correct.
 If you app has passed both the test cases, it is time to go to the next excercise.
